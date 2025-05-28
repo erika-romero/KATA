@@ -2,7 +2,8 @@
 
 ## Descripción
 
-Este proyecto implementa pruebas automatizadas para validar la funcionalidad del formulario web en el sitio [Demo QA](https://demoqa.com/automation-practice-form)
+Este proyecto implementa pruebas automatizadas para validar la funcionalidad del formulario web en el sitio [Demo QA](https://demoqa.com/automation-practice-form).
+
 Utiliza Selenium WebDriver con Java y JUnit 5 para la automatización, junto con ExtentReports para la generación de reportes visuales.  
 
 Las pruebas cubren casos como:  
