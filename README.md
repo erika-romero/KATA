@@ -11,32 +11,6 @@ Las pruebas cubren casos como:
 - Interacción con elementos dinámicos y dropdowns personalizados  
 - Captura de pantallas en casos de éxito o error para evidencia  
 
-##Estructura del proyecto
-Prueba/
-├── files/
-│   └── test.png                   #Archvios de prueba
-├── src/
-│   ├── main/
-│   │   └── java/
-│   │       ├── pages/
-│   │       │   └── Form.java      # Página objeto para el formulario
-│   │       └── utils/
-│   │           ├── DataGenerator.java
-│   │           ├── ExtentReportManager.java
-│   │           └── Screenshot.java
-│   └── test/
-│       └── java/
-│           ├── base/
-│           │   └── Main.java      # Clase base para pruebas (setup y teardown)
-│           └── tests/             # Casos de prueba automatizados
-│               ├── FormDynamicDropdownTest.java
-│               ├── FormEmptyRequiredFieldsTest.java
-│               ├── FormHappyPathTest.java
-│               ├── FormInvalidEmailTest.java
-│               └── FormInvalidPhoneTest.java
-├── target/                        
-├── test-report/                   # Reportes generados (ExtentReports)
-└── .gitignore      
 ## Requisitos
 
 - Java JDK 11 o superior  
