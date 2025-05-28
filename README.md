@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Este proyecto implementa pruebas automatizadas para validar la funcionalidad del formulario web en el sitio [[demoqa.com]([https://demoqa.com](https://demoqa.com/automation-practice-form)])
+Este proyecto implementa pruebas automatizadas para validar la funcionalidad del formulario web en el sitio [demoqa.com]([https://demoqa.com](https://demoqa.com/automation-practice-form)])
 Utiliza Selenium WebDriver con Java y JUnit 5 para la automatización, junto con ExtentReports para la generación de reportes visuales.  
 
 Las pruebas cubren casos como:  
@@ -20,5 +20,8 @@ Las pruebas cubren casos como:
 
 ## Instalación
 
-1. Clonar este repositorio
-2. Ejecutar las pruebas con el comando: mvn clean test
+```bash
+  git clone https://github.com/erika-romero/KATA.git
+  cd KATA
+  mvn clean test
+```
