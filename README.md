@@ -9,7 +9,7 @@ Utiliza Selenium WebDriver con Java y JUnit 5 para la automatización, junto con
 Las pruebas cubren casos como:  
 - Validación de campos dependientes (por ejemplo, habilitación de dropdown de ciudad al seleccionar estado)  
 - Validación de campos con datos inválidos (correo electrónico, teléfono)  
-- Interacción con elementos dinámicos y dropdowns personalizados  
+- Interacción con elementos dinámicos y dropdowns
 - Captura de pantallas en casos de éxito o error para evidencia  
 
 ## Requisitos
